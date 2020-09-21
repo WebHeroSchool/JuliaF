@@ -1,0 +1,45 @@
+h1{
+  color: OrangeRed;
+	text-shadow: 1px 1px;
+	font-size: 25px;
+	font-family: sans-serif,fantasy,Tahoma;
+	margin-left: 20px;
+	}
+
+section{
+		font-family: sans-serif,Arial Black,fantasy;
+		margin-left: 20px;
+		}
+
+main{
+	font-family: sans-serif,Arial Black,fantasy;
+	margin-left: 20px;
+}
+
+h2{
+	color: Olive;
+	font-size: 20px;
+	font-family: sans-serif,fantasy,Tahoma;
+	margin-left: 20px;
+	}
+
+article{
+		background-color: Olive;
+		height: 200px;
+		width: 90%;
+		border: 10px solid olive;
+		border-radius: 9px;
+		margin-left: 20px;
+		}
+.headline{
+	color: White;
+	font-family: monospace;
+	margin-left: 20px;
+}
+.subtitle{
+	margin-left: 20px;
+}
+
+.square{
+	width: 50%;
+}
