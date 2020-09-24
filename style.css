@@ -1,7 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
-
 h1 {
-  font-family: 'Balsamiq Sans', cursive;
+  font-family: 'PT Sans Narrow', sans-serif;
   color: OrangeRed;
   text-shadow: 1px 1px;
   font-size: 25px;
@@ -10,11 +8,12 @@ h1 {
 }
 
 section {
-  font-family: sans-serif, Arial Black, fantasy;
+  font-family: 'Roboto', sans-serif;
   margin-left: 20px;
 }
 
 main {
+  font-family: 'Roboto', sans-serif;
   margin-left: 20px;
 }
 
@@ -25,6 +24,7 @@ h2 {
 }
 
 article {
+  font-family: 'Roboto', sans-serif;
   background-color: Olive;
   height: 200px;
   width: 90%;
