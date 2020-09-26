@@ -1,48 +1,12 @@
-h1 {
-  font-family: 'PT Sans Narrow', sans-serif;
-  color: OrangeRed;
-  text-shadow: 1px 1px;
-  font-size: 25px;
-  font-family: 'Lobster', cursive;
-  margin-left: 20px;
+body{
+  font-family: 'Caveat', cursive;
+  color: Blue;
 }
 
-section {
-  font-family: 'Roboto', sans-serif;
-  margin-left: 20px;
+h1{
+  font-family: 'Pacifico', cursive;
+  color: red;
 }
-
-main {
-  font-family: 'Roboto', sans-serif;
-  margin-left: 20px;
-}
-
-h2 {
-  color: Olive;
-  font-size: 20px;
-  margin-left: 20px;
-}
-
-article {
-  font-family: 'Roboto', sans-serif;
-  background-color: Olive;
-  height: 200px;
-  width: 90%;
-  border: 10px solid olive;
-  border-radius: 9px;
-  margin-left: 20px;
-}
-
-.headline {
-  color: White;
-  font-family: monospace;
-  margin-left: 20px;
-}
-
-.subtitle {
-  margin-left: 20px;
-}
-
-.square {
-  width: 50%;
+.subtitle{
+  color: Purple;
 }
